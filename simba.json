@@ -1,0 +1,9 @@
+{
+	"web3Suite": "hardhat",
+	"authProviderInfo": {
+		"type": "keycloak",
+		"baseurl": "https://iam-prd.sso.simbachain.com",
+		"client_id": "blocks-dev-plugins",
+		"realm": "simbachain"
+	}
+}

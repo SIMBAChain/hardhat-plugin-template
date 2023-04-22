@@ -1,0 +1,19 @@
+# env vars (for .sibmachain.env, simbachain.env, or .env)
+**.env
+
+# auth token:
+**authconfig.json
+
+# node_modules
+node_modules
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
